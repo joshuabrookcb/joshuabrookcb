@@ -21,6 +21,6 @@ I'm a Junior Developer (apprentice) at Cold Banana Studio :snowflake::banana:
 
 | Project | Description | Tech | Repo/ Link
 | ----------- | ----------- | ----------- | ----------- |
-| BEDTest :page_facing_up:| A Backend develpment project | Umbraco/ C#/ .NET | [Umbraco BEDTest](https://github.com/joshuabrookcb/BEDTest)  |
+| BEDTest :page_facing_up:| A Backend develpment project | Umbraco/ C#/ .NET | [Github](https://github.com/joshuabrookcb/BEDTest)  |
 | Reciever - Yoshito Mod :video_game:| Poking around video game souce files | C# /Unity | [Github](https://github.com/joshuaabrookuk/7DFPS) |
 | [Let me ask my Butler](https://letmeaskmybutler.herokuapp.com/) :mag:| Practice making a full-stack app | Sinatra/ Ruby | [Github](https://github.com/joshuaabrookuk/letmeaskmybutler)<br>[Deployment](https://letmeaskmybutler.herokuapp.com/)
