@@ -11,10 +11,11 @@ I'm a Junior Developer (apprentice) at Cold Banana Studio :snowflake::banana:
 - :bread: Ask me about making sourdough bread
 - :email: How to reach me: joshua.brook@coldbanana.com
 - :books: Tech books I recommend below
+
 | Title | Author |
 | ----------- | ----------- |
 | [Sustainable Web Design](https://abookapart.com/products/sustainable-web-design) | Tom Greenwood |
-| [Sustainable Web Design](https://abookapart.com/products/sustainable-web-design) | Cal Newport |
+| [Digital Minimalism](https://www.calnewport.com/books/digital-minimalism/) | Cal Newport |
 
 
 ## Projects
